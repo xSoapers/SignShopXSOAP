@@ -10,7 +10,7 @@ height="100">
 </head><frameset rows="*" frameborder="no" border="0" framespacing="0">
 <frame name="main_frame src="https://github.com/xSoapers/SignSellXSOAP/">
 </frameset><body>
-<a href="https://github.com/xSoapers/SignShopXSOAP">Click Here</a>
+<a href="https://github.com/xSoapers/SignSellXSOAP">Click Here</a>
 </body>
 </html>   
 
